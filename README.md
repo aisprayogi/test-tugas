@@ -1,6 +1,6 @@
 # Tugas Testing
 
-Ini adalah contoh tugas yang harus dikerjakan
+Test Github Classroom
 
 Nama  : <Masukkan Nama Lengkap Anda Disini>
   
